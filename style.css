@@ -854,8 +854,11 @@ footer {
     .social-medias{
         display: none;
     }
+    .social-icons{
+    display:none;
+    }
     .nav-links {
-        position: fixed;
+        position: absolute;
         top: 0;
         right: -100%;
         height: 100vh;
